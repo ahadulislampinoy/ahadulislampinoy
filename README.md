@@ -14,13 +14,13 @@
 <img align="right" src="Images/code.gif" width="300" height="180" alt="GIF"/>
 
 <p>&nbsp;</p>
-<p align="left">
+
 📖 I’m currently learning **[React](https://reactjs.org/)**
 
 💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/)**
 
 📫 How to reach me **ahadulislampinoy@gmail.com**
-</p>
+
 <p>&nbsp;</p>
 
 
