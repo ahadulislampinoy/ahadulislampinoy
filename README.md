@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-  A passionate self-taught Web Developer from Bangladesh.
+  A passionate Web Developer from Bangladesh.
   <p>&nbsp;</p>
 </h3>
 
