@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-  A passionate Web Developer from Bangladesh.
+Focusing on learning Web Development.
   <p>&nbsp;</p>
 </h3>
 
