@@ -19,7 +19,7 @@ Focusing on learning Web Development.
 
 💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/)**
 
-📫 How to reach me **ahadulislampinoy@gmail.com**
+<!-- 📫 How to reach me **ahadulislampinoy@gmail.com** -->
 
 <p>&nbsp;</p>
 
