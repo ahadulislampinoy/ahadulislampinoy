@@ -6,16 +6,16 @@
 
 
 
-<h3 align="center">
+<!-- <h3 align="center">
 Focusing on learning Web Development.
   <p>&nbsp;</p>
-</h3>
+</h3> -->
 
 <img align="right" src="Images/code.gif" width="300" height="180" alt="GIF"/>
 
 <p>&nbsp;</p>
 
-📖 Currently learning **[React](https://reactjs.org/)**
+📖 I'm currently learning **[React](https://reactjs.org/)**
 
 💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/)**
 
