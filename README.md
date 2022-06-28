@@ -15,7 +15,7 @@ Focusing on learning Web Development.
 
 <p>&nbsp;</p>
 
-📖 I’m currently learning **[React](https://reactjs.org/)**
+📖 Currently learning **[React](https://reactjs.org/)**
 
 💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/)**
 
