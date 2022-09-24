@@ -17,7 +17,7 @@ Focusing on learning Web Development.
 
 📖 I'm currently learning **[React](https://reactjs.org/)**
 
-💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/)**
+💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/), [Tailwind](https://tailwindcss.com/)**
 
 
 <p>&nbsp;</p>
@@ -29,9 +29,9 @@ Focusing on learning Web Development.
 Connect with me</h2>
  
 <p align="center">
-<a href="https://www.facebook.com/ahadulislampinoy" target="_blank"> <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'> </a>
-<a href="https://www.instagram.com/ahadul.pinoy" target="_blank"> <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='37'> </a>
-<a href="https://www.linkedin.com/in/ahadulislampinoy" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='41'> </a> </br>
+<a href="https://www.facebook.com/" target="_blank"> <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'> </a>
+<a href="https://www.instagram.com/" target="_blank"> <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='37'> </a>
+<a href="https://www.linkedin.com/in/" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='41'> </a> </br>
 <a href="javascript: void(0)" target="_blank"> <img src='https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white' alt='dribbble' height='41'> </a>
 <a href="javascript: void(0)" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt='behance'  height='43'></a>
  </p>
