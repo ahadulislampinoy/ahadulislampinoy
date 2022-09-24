@@ -17,7 +17,7 @@ Focusing on learning Web Development.
 
 📖 I'm currently learning **[React](https://reactjs.org/)**
 
-💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/), [Tailwind](https://tailwindcss.com/)**
+💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/), [Tailwind](https://tailwindcss.com/), [Javscript](https://www.javascript.com/)**
 
 
 <p>&nbsp;</p>
