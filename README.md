@@ -15,9 +15,9 @@ Focusing on learning Web Development.
 
 <p>&nbsp;</p>
 
-📖 I'm currently learning **[React](https://reactjs.org/)**
+📖 I'm currently learning **[Redux](https://redux.js.org/)**
 
-💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/), [Tailwind](https://tailwindcss.com/), [Javscript](https://www.javascript.com/)**
+💬 Ask me about **[HTML5](https://www.w3.org/html/), [CSS3](https://www.w3.org/Style/CSS/), [Bootstrap](https://getbootstrap.com/), [Tailwind](https://tailwindcss.com/), [Javscript](https://www.javascript.com/), [React](https://reactjs.org/), [Node](https://nodejs.org/en/), [Express](https://expressjs.com/), [MongoDB](mongodb.com/)**
 
 
 <p>&nbsp;</p>
