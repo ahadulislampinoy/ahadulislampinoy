@@ -38,7 +38,5 @@ I like accessibility, performance and robust code. In addition, I also like to h
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahadulislampinoy&theme=github_dark&utcOffset=8" width="32.5%">
 </div>
 
-<div>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahadulislampinoy&theme=github_dark">
-</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahadulislampinoy&theme=github_dark" width="100%">
 </div>
