@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="Images/Ahadul Islam Pinoy.png">
+<img align="right" src="Images/code.gif" alt="GIF"/>
 </h2>
 
 
