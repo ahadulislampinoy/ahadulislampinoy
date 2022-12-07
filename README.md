@@ -36,7 +36,7 @@ I like accessibility, performance and robust code. In addition, I also like to h
 <div align="center" >
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahadulislampinoy&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahadulislampinoy&theme=github_dark" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadulislampinoy&layout=compact&theme=github_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahadulislampinoy&theme=github_dark&utcOffset=8" width="32.5%">
 </div>
 
