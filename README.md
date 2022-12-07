@@ -29,7 +29,7 @@ I like accessibility, performance and robust code. In addition, I also like to h
 <br/>
 
 ## Reach Me Out
-<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="60"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="60"></a>
+<a href="https://www.linkedin.com/in/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45"></a>|<a href="https://www.facebook.com/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="60"></a>
 |--|--|
 
 ## Current Stats
