@@ -6,8 +6,6 @@
 I'm a versatile developer, with experience in building web platforms.
 I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can.
 
-<br/>
-
 ## Current Overview
 #### 🤝 I’m looking - To collaborate on open-source projects
 #### 🧣 I’m currently - Learning Next.js
