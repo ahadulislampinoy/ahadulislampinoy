@@ -33,6 +33,8 @@ I like accessibility, performance and robust code. In addition, I also like to h
 <a href="https://www.linkedin.com/in/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45"></a>
 <a href="https://www.facebook.com/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45"></a>
 <a href="https://www.instagaram.com/ahadul.pinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="45"></a>
+ <a href="https://dev.to/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+<a href="https://twitter.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 </p>
  
 ## Current Stats
