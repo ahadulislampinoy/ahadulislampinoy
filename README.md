@@ -29,8 +29,9 @@ I like accessibility, performance and robust code. In addition, I also like to h
 <br/>
 
 ## Reach Me Out
-<a href="https://www.linkedin.com/in/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45"></a>|<a href="https://www.facebook.com/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="60"></a>
-|--|--|
+<a href="https://www.linkedin.com/in/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45"></a>
+<a href="https://www.facebook.com/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45"></a>
+<a href="https://www.instagaram.com/ahadul.pinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="45"></a>
 
 ## Current Stats
 <div align="center" >
