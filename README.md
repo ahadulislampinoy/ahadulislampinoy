@@ -1,6 +1,4 @@
-<h2 align="center">
 <img align="right" src="Images/code.gif" alt="GIF"/>
-</h2>
 
 
 
