@@ -26,8 +26,6 @@ I like accessibility, performance and robust code. In addition, I also like to h
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/>|<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/>|<img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/>|
 |--|--|--|--|
 
-<br/>
-
 ## Reach Me Out
 <p align="left">  
 <a href="https://www.linkedin.com/in/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="45"></a>
