@@ -26,11 +26,11 @@ I like accessibility, performance and robust code. In addition, I also like to h
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/>|<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/>|<img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/>|
 |--|--|--|--|
 
-## Reach Me Out
-<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://skillicons.dev/icons?i=vim" width="40"></a>
-|--|--|
-
 <br/>
+
+## Reach Me Out
+<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="60"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="60"></a>
+|--|--|
 
 ## Current Stats
 <div align="center" >
