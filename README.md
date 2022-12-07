@@ -36,8 +36,8 @@ I like accessibility, performance and robust code. In addition, I also like to h
 </p>
  
  <p align="left">  
-<a href="https://dev.to/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="45" /></a>  
-<a href="https://twitter.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="45" /></a>  
+<a href="https://dev.to/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" width="45" /></a>  
+<a href="https://twitter.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik"  width="45" /></a>  
 <a href="https://linkedin.com/in/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/11409373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>  
 <a href="https://fb.com/shakil.atik15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>  
