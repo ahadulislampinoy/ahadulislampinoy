@@ -8,7 +8,7 @@ enthusiastic learner, and always looking for opportunities to learn new technolo
 I also like to help and contribute as much as I can.
 
 ## Current Overview
-#### 🥅 Goals of 2022 - NextJS, Redux, Typescript, GraphQL, MySQL
+#### 🥅 Goals of 2023 - NextJS, Redux, Typescript, GraphQL, MySQL
 #### 🤝 I’m looking - To collaborate on open-source projects
 #### 🧣 I’m currently - Learning NextJS
 #### 💤 Fun fact - Still thinking..
