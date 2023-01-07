@@ -3,9 +3,9 @@
 <img src="/ahadul_islam_pinoy_banner.png"/></a>
 
 ## About Me
-I'm a Frontend Web Developer with experience in building web platforms. Who is a hardworking, confident, 
+I'm a Web Developer with experience in building web platforms. Who is a hardworking, confident, 
 enthusiastic learner, and always looking for opportunities to learn new technologies. In addition, 
-I also like to help and communicate as much as I can.
+I also like to help and contribute as much as I can.
 
 ## Current Overview
 #### 🤝 I’m looking - To collaborate on open-source projects
