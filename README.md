@@ -9,7 +9,7 @@ I also like to help and contribute as much as I can.
 
 ## Current Overview
 #### 🤝 I’m looking - To collaborate on open-source projects
-#### 🧣 I’m currently - Learning Next.js
+#### 🧣 I’m currently - Learning Redux
 #### 💭 Ask me about - Html, CSS, Bootstrap, Tailwindcss, Javascript, React
 
 <br/>
