@@ -1,5 +1,5 @@
 
-## Hi there, I'm Ahadul Islam Pinoy 👋
+<!-- ## Hi there, I'm Ahadul Islam Pinoy 👋 -->
 <img src="/banner.jpg"/></a>
 
 ## About Me
