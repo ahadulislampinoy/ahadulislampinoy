@@ -39,7 +39,7 @@ Hi there! I'm a Web Developer with a strong passion for building and creating fu
 <div align="center" >
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahadulislampinoy&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahadulislampinoy&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahadulislampinoy&theme=github_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahadulislampinoy&theme=github_dark&utcOffset=8" width="32.5%">
 </div>
 
