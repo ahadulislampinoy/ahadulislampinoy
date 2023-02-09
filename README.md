@@ -38,7 +38,7 @@ Hi there! I'm a Web Developer with a strong passion for building and creating fu
 ## Current Stats
 <div align="center" >
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=ahadulislampinoy&theme=gotham&show_icons=true&title_color=0959d6&text_color=77909c&bg_color=0d1117&text_bold=false&icon_color=8b949e&custom_title=Ahadul%20Islam%20Pinoy%20Stats&ring_color=8b949e&border_color=2e343b&card_width=32.5%&line_height=28" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=ahadulislampinoy&theme=gotham&show_icons=true&title_color=0959d6&text_color=77909c&bg_color=0d1117&text_bold=false&icon_color=8b949e&custom_title=Ahadul%20Islam%20Pinoy%20Stats&ring_color=8b949e&border_color=2e343b&card_width=32.5%&line_height=32" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahadulislampinoy&theme=github_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahadulislampinoy&theme=github_dark&utcOffset=8" width="32.5%">
 </div>
