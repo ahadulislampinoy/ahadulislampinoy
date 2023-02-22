@@ -1,9 +1,7 @@
 
-## Hi there, I'm Ahadul Islam Pinoy 👋
-<img src="/ahadul_islam_pinoy_banner.png"/></a>
+<img src="/ahadul_islam_pinoy_banner.png2.jpg"/></a>
 
-## About Me
-Hi there! I'm a Web Developer with a strong passion for building and creating functional and visually appealing web applications. Who is a hardworking, confident, enthusiastic learner, and always looking for opportunities to learn new technologies. I am always excited to take on new challenges and learn from my peers, so don't hesitate to reach out and connect with me on GitHub!
+Hi there! I'm Ahadul Islam Pinoy a Web Developer with a strong passion for building and creating functional and visually appealing web applications. Who is a hardworking, confident, enthusiastic learner, and always looking for opportunities to learn new technologies. I am always excited to take on new challenges and learn from my peers, so don't hesitate to reach out and connect with me on GitHub!
 
 ## Current Overview
 #### 🥅 Goals of 2023 - NextJS, Redux, Typescript, GraphQL, MySQL
