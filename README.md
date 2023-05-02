@@ -34,7 +34,6 @@ Hi there! I'm a Web Developer with a strong passion for building and creating fu
 <a href="https://www.instagram.com/ahadul.pinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="45"></a>
 </p>
  
- 
 ## Current Stats
 <div align="center" >
 <div>
