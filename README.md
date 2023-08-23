@@ -34,6 +34,8 @@ I am a web developer who is passionate about creating visually appealing, and fu
 <a href="https://www.facebook.com/ahadulislampinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="45"></a>
 <a href="https://www.instagram.com/ahadul.pinoy/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="45"></a>
 </p>
+
+ <br/>
  
 ## Current Stats
 <div align="center" >
