@@ -3,18 +3,17 @@
 <img src="/ahadul_islam_pinoy_banner.png"/></a>
 
 ## About Me
-Hi there! I'm a Web Developer with a strong passion for building and creating functional and visually appealing web applications. Who is a hardworking, confident, enthusiastic learner, and always looking for opportunities to learn new technologies. I am always excited to take on new challenges and learn from my peers, so don't hesitate to reach out and connect with me on GitHub!
+I am a web developer who is passionate about creating visually appealing, and functional web applications. I am a confident and self-assured individual who is always looking to learn new things and stay ahead of the curve.
 
 ## Current Overview
 #### 🥅 Goals of 2023 - Typescript, GraphQL, MySQL
 #### 🤝 I’m looking - To collaborate on open-source projects
 #### 🧣 I’m currently - Learning Typescript
-#### 💤 Fun fact - Still thinking..
+#### 💤 Fun fact - Still thinking...
 
 <br/>
 
 ## Technologies That I Know
-
 ### ⚡Frontend
 <a href="https://html5.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40"/></a>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/>| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40"/>|<img src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="nextjs" width="40"/>|
 |--|--|--|--|--|--|--|
