@@ -3,7 +3,7 @@
 <img src="/ahadul_islam_pinoy_banner.png"/></a>
 
 ## About Me
-#### I am a web developer who is passionate about creating visually appealing, and functional web applications. I am a confident and self-assured individual who is always looking to learn new things and stay ahead of the curve.
+I am a web developer who is passionate about creating visually appealing, and functional web applications. I am a confident and self-assured individual who is always looking to learn new things and stay ahead of the curve.
 
 ## Current Overview
 ### 🥅 Goals of 2023 - Typescript, GraphQL, MySQL
