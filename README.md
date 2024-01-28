@@ -28,7 +28,7 @@ I am a web developer who is passionate about creating visually appealing, and fu
 
 ## Reach Me Out
 <p align="left">  
-<a href="https://ahadulislampinoy.netlify.app"><img src="https://www.svgrepo.com/show/229032/internet.svg" height="35" width="55"></a>
+<a href="https://ahadulislampinoy.netlify.app"><img src="https://www.svgrepo.com/show/229032/internet.svg" height="30" width="45"></a>
 <a href="https://www.linkedin.com/in/ahadulislampinoy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="45"></a>
 <a href="https://www.facebook.com/ahadulislampinoy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="45"></a>
 <a href="https://www.instagram.com/ahadul.pinoy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="45"></a>
