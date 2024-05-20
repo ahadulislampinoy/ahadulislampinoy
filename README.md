@@ -1,8 +1,7 @@
 ## Hey there, I'm Ahadul Islam Pinoy <img src="assets/images/Waving-Hand.png" width="29px">
 <img src="assets/images/Banner.png"/></a>
-
-## About Me
-I am a web developer who is passionate about creating visually appealing, and functional web applications. I am a confident and self-assured individual who is always looking to learn new things and stay ahead of the curve.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=4500&pause=1000&color=2EB7F8&vCenter=true&random=false&width=435&lines=A+Frontend+Developer;A+Tech+Enthusiast)](https://git.io/typing-svg)
+Who is dedicated to creating visually stunning and functional web applications. Always eager to learn and stay ahead of the curve.
 
 ## Current Overview
 #### 🤝 I’m looking - To collaborate on open-source projects
