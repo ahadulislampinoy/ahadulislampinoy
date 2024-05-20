@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=4500&pause=1000&color=2EB7F8&vCenter=true&random=false&width=435&lines=Frontend+Developer;React+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
-<img src="assets/images/Banner.png"/></a>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp"/></a>
 Who is dedicated to creating visually stunning and functional web applications. Always eager to learn and stay ahead of the curve.
 
 ## Current Overview
