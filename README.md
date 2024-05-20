@@ -1,4 +1,4 @@
-## Hi there, I'm Ahadul Islam Pinoy 👋
+## Hey there, I'm Ahadul Islam Pinoy 👋
 <img src="/ahadul_islam_pinoy_banner.png"/></a>
 
 ## About Me
