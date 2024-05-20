@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=4500&pause=1000&color=2EB7F8&vCenter=true&random=false&width=435&lines=Frontend+Developer;React+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 <img src="/assets/images/Banner.png"/></a>
 
-## Meet Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" width="30">
+## Meet Me <img src="/assets/images/Waving-Hands.png" width="30">
 Hi! I'm Ahadul Islam Pinoy, a passionate web developer hailing from Bangladesh. My journey in web development began with experimenting on free website building platforms like Weebly, WordPress, and Blogspot. Dissatisfied with the limitations, I've evolved into a developer dedicated to crafting highly functional and visually stunning web applications through meticulously crafted code and user-centric design.
 
 Firmly believing in the adage "Action speaks louder than words," I'm driven to constantly seek growth and improvement in my craft. Beyond coding, I thrive on collaboration, quality conversations, and creating lively moments. Always eager to learn new technologies and stay ahead of the curve, I'm fueled by curiosity and a relentless drive for excellence in web development.
