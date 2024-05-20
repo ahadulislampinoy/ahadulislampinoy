@@ -28,6 +28,8 @@ Firmly believing in the adage "Action speaks louder than words," I'm driven to c
 <a href="https://www.instagram.com/ahadul.pinoy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="45"></a>
 </p>
 
+<br/>
+
 ## Current Stats <img src="/assets/images/Bar-Chart.png" width="30">
 <div align="center" >
 <div>
