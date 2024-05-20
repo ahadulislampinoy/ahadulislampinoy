@@ -41,11 +41,11 @@ Firmly believing in the adage "Action speaks louder than words," I'm driven to c
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahadulislampinoy&theme=github_dark" width="98%">
 </div>
 
-## Life Tracker <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" width="27">
+## Life Tracker <img src="assets/images/Round Pushpin.png" width="27">
 - <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: `4,683`
 - <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: `457,658`
 - <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: `297`
 - <img src="assets/images/Robot.png" width="25"> Projects Completed: `12+`
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bow%20and%20Arrow.png" width="25"> Currently Learning: `Typescript, PostgreSql`
+- <img src="assets/images/Bow and Arrow.png" width="25"> Currently Learning: `Typescript, PostgreSql`
 
 ### Thanks for visiting!&nbsp;
