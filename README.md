@@ -1,5 +1,5 @@
-## Hey there, I'm Ahadul Islam Pinoy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium-Light Skin Tone" width="30" height="35" />
-<img src="/ahadul_islam_pinoy_banner.png"/></a>
+## Hey there, I'm Ahadul Islam Pinoy <img src="assets/images/Waving-Hand.png" width="29px">
+<img src="assets/images/Banner.png"/></a>
 
 ## About Me
 I am a web developer who is passionate about creating visually appealing, and functional web applications. I am a confident and self-assured individual who is always looking to learn new things and stay ahead of the curve.
