@@ -42,13 +42,9 @@ Firmly believing in the adage "Action speaks louder than words," I'm driven to c
 </div>
 
 ## Life Tracker
+- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: `4,683`
+- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: `457,658`
+- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: `297`
+- <img src="assets/images/Robot.png" width="25"> Projects Completed: `12+`
 
-- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://my-github-tracker.vercel.app/tea"/> cups.
-- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://my-github-tracker.vercel.app/code"/>
-- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://my-github-tracker.vercel.app/debug"/>
-- <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://my-github-tracker.vercel.app/thinking"/> hours.
-- <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://hits.sh/github.com/Tarikul-Islam-Anik.svg?label=%E3%85%A4&color=ffffff&labelColor=ffffff&logo=https%3A%2F%2Foxyzen.me%2F"/>
-- <img src="assets/images/Robot.png" width="25"> Projects Completed: `15`
-- <img src="assets/images/Hourglass Done.png" width="25"> Daily Working Hours: `~ 8 Hours`
-
-  ### Thanks for visiting!&nbsp;
+### Thanks for visiting!&nbsp;
