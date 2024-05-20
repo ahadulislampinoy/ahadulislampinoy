@@ -19,8 +19,6 @@ Firmly believing in the adage "Action speaks louder than words," I'm driven to c
  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40"/>|<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40"/>|<img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/>|<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40"/>|
 |--|--|--|--|
 
-<br/>
-
 ## Reach Me Out <img src="/assets/images/Incoming Envelope.png" width="37">
 <p align="left">  
 <a href="https://ahadulislampinoy.netlify.app"><img src="https://www.svgrepo.com/show/229032/internet.svg" height="30" width="45"></a>
