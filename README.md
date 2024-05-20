@@ -2,6 +2,10 @@
 <img src="/assets/images/Banner.png"/></a>
 
 ## About Me <img src="/assets/images/Waving-Hand.png" width="30">
+Meet me, Ahadul Islam Pinoy, a passionate web developer hailing from Bangladesh. My journey in web development began with experimenting on free website building platforms like Weebly, WordPress, and Blogspot. Dissatisfied with the limitations, I've evolved into a developer dedicated to crafting highly functional and visually stunning web applications through meticulously crafted code and user-centric design.
+
+Firmly believing in the adage "Action speaks louder than words," I'm driven to constantly seek growth and improvement in my craft. Beyond coding, I thrive on collaboration, quality conversations, and creating lively moments. Always eager to learn new technologies and stay ahead of the curve, I'm fueled by curiosity and a relentless drive for excellence in web development.
+
 ## Current Overview
 #### 🤝 I’m looking - To collaborate on open-source projects
 #### 🧣 I’m currently - Learning Python
