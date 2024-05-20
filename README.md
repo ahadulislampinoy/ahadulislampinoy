@@ -12,11 +12,11 @@ Firmly believing in the adage "Action speaks louder than words," I'm driven to c
 |--|--|--|--|--|--|--|
 
 ### <img src="/assets/images/Sparkles.png" width="25"> Backend
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>|<img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/>|<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/>|
+ <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40"/>|<img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/>|<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40"/>|<img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40"/>|
 |--|--|--|--|
 
 ### <img src="/assets/images/Sparkles.png" width="25"> Tools
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/>|<img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/>|<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vercel" width="40"/>|
+ <img src="https://skillicons.dev/icons?i=git" alt="git" width="40"/>|<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40"/>|<img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/>|<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40"/>|
 |--|--|--|--|
 
 <br/>
