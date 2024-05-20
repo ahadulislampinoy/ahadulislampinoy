@@ -25,7 +25,7 @@ Firmly believing in the adage "Action speaks louder than words," I'm driven to c
 <p align="left">  
 <a href="https://ahadulislampinoy.netlify.app"><img src="https://www.svgrepo.com/show/229032/internet.svg" height="30" width="45"></a>
 <a href="https://www.linkedin.com/in/ahadulislampinoy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="45"></a>
- <a href="https://twitter.com/ahadulpinoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahadulpinoy" height="30" width="45" /></a>
+<a href="https://twitter.com/ahadulpinoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahadulpinoy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahadulislampinoy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="45"></a>
 <a href="https://www.instagram.com/ahadul.pinoy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="45"></a>
 </p>
