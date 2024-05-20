@@ -48,6 +48,6 @@ Firmly believing in the adage "Action speaks louder than words," I'm driven to c
 - <img src="assets/images/Robot.png" width="25"> Projects Completed: `12+`
 - <img src="assets/images/Bow and Arrow.png" width="25"> Currently Learning: `Typescript, PostgreSql`
 
-### Thanks for visiting!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" width="23">
+### Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25">
 
 
