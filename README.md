@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=4500&pause=1000&color=2EB7F8&vCenter=true&random=false&width=435&lines=Frontend+Developer;React+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=4500&pause=1000&color=2EB7F8&vCenter=true&random=false&width=435&lines=Frontend+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 <img src="/assets/images/Banner.png"/></a>
 
 ## Meet Me <img src="/assets/images/Waving-Hand.png" width="30">
